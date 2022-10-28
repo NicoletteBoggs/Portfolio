@@ -5,14 +5,14 @@
 }
 
 body {
-    background-color: violet;
+    background-color: darkgray;
 }
 
 .header {
     padding: 20px;
     font-size: 40px;
     font-family: 'arial narrow';
-    background-color: #d0b031;
+    background-color: gray;
     color: #efdff5;
 }
 
@@ -38,11 +38,36 @@ body {
     margin-left: 25px;
 }
 
+a {
+    color: white;
+    text-decoration: none;
+}
+
 .space {
-    height: 200px;
+    height: 150px;
     width: 100%;
+    background-size: cover;
+    background-position: center;
+}
+
+.navigation {
+    margin-left: 20px;
+    padding: 50px;
+    height: 100px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: salmon;
+    color: white;
+}
+
+.about-me {
+    color: white;
 
 }
+
+.projects {
+    color: white;
+}
+
 
 .float-left {
     float: left;
@@ -50,7 +75,6 @@ body {
 }
 
 .mybio {
-    width: 75%;
     display: inline-block;
-    margin-left: 20px;
+    margin-left: 0px;
 }
