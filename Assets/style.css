@@ -44,13 +44,6 @@ a {
     text-decoration: none;
 }
 
-/* .space {
-    height: 150px;
-    width: 100%;
-    background-size: cover;
-    background-position: center;
-} */
-
 .navigation {
     margin-left: 0px;
     padding: 30px;
@@ -78,11 +71,3 @@ a {
 .projects {
     color: white;
 }
-
-
-
-/* 
-.mybio {
-    display: inline-block;
-    margin-left: 0px;
-} */
